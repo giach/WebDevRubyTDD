@@ -24,5 +24,3 @@ def compute_row(n)
 	return a
 end
 
-#compute_row(5)
-
